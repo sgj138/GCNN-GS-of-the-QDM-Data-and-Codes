@@ -2,9 +2,11 @@
 The repository contains Data and Codes presented/used for the calculations presented in the manuscript
 
 fig2a_data.txt
+    > This data is split into 4 files
     > Refer to Fig. 2(a) in the main text.
     > x1 x2 x3 denote $\log_{10}|\psi_{GCNN}|^2$ values for optimized GCNN with $\mathcal{L} =$ 1, 2, 3 layers respectivel.y
     > y denotes the corresponding ED values i.e. $\log_{10}|\psi_{ED}|^2$.
+
 
 fig2b_data.txt
     > Refer to Fig. 2(b) in the main text.
